@@ -6,10 +6,6 @@ import java.util.HashMap;
 import java.util.Random;
 import java.util.regex.Pattern;
 
-import part2.FileSpace;
-import part2.LinkedBlock;
-
-
 public class FileSystem {
 
   private ArrayList<FileSpace> fSys;
